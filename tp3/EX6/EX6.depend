@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733053852 source:c:\c++\tp3\ex6\main.cpp
+	<iostream>
+	<unordered_map>
+	"tableaux.h"
+
+1733053852 c:\c++\tp3\ex6\tableaux.h
+	<iostream>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<string>
+

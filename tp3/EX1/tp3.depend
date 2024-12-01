@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733048611 source:c:\c++\tp3\tp3\main.cpp
+	<iostream>
+
+1733048611 source:c:\c++\tp3\ex1\main.cpp
+	<iostream>
+
