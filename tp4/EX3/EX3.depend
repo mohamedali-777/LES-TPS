@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733056495 source:c:\c++\tp4\ex3\main.cpp
+	<iostream>
+	<vector>
+	<functional>
+
