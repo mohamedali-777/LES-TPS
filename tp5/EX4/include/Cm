@@ -1,0 +1,16 @@
+#ifndef CM_
+#define CM_
+
+
+class Cm
+{
+    public:
+        Cm();
+        virtual ~Cm();
+
+    protected:
+
+    private:
+};
+
+#endif // CM_

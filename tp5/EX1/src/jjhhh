@@ -1,0 +1,11 @@
+#include "jjhhh."
+
+jjhhh::jjhhh()
+{
+    //ctor
+}
+
+jjhhh::~jjhhh()
+{
+    //dtor
+}

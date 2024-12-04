@@ -1,0 +1,16 @@
+#ifndef JJHHH_
+#define JJHHH_
+
+
+class jjhhh
+{
+    public:
+        jjhhh();
+        ~jjhhh();
+
+    protected:
+
+    private:
+};
+
+#endif // JJHHH_

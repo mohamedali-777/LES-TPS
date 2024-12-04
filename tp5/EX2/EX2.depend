@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1733335284 source:c:\c++\tp5\ex2\src\vect2d.cpp
+	"Vect2D.h"
+	<iostream>
+	<cmath>
+
+1733333352 c:\c++\tp5\ex2\include\vect2d.h
+
+1733335963 source:c:\c++\tp5\ex2\main.cpp
+	<iostream>
+	"Vect2D.h"
+	"Vect3D.h"
+
+1733335559 c:\c++\tp5\ex2\vect3d.h
+	"Vect2D.h"
+
+1733335461 source:c:\c++\tp5\ex2\vect3d.cpp
+	"Vect3D.h"
+	<iostream>
+	<cmath>
+

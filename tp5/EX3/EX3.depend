@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733342949 source:c:\c++\tp5\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1733343781 c:\c++\tp5\ex3\include\point.h
+
+1733343079 source:c:\c++\tp5\ex3\main.cpp
+	"Point.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733212576 source:c:\c++\tp5\ex1\main.cpp
+	"Etudiant.h"
+	<iostream>
+
+1733212322 source:c:\c++\tp5\ex1\src\etudiant.cpp
+	"Etudiant.h"
+	<iostream>
+
+1733212295 c:\c++\tp5\ex1\include\etudiant.h
+	<string>
+

@@ -1,0 +1,16 @@
+#ifndef VECT3D_
+#define VECT3D_
+
+
+class Vect3D
+{
+    public:
+        Vect3D();
+        ~Vect3D();
+
+    protected:
+
+    private:
+};
+
+#endif // VECT3D_

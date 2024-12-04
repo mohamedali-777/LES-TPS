@@ -1,0 +1,11 @@
+#include "Vect3D."
+
+Vect3D::Vect3D()
+{
+    //ctor
+}
+
+Vect3D::~Vect3D()
+{
+    //dtor
+}
