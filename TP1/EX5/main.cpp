@@ -3,13 +3,8 @@
 
 using namespace std;
 
-// Fonction f qui calcule la racine carrée de (x - 1) * (2 - x)
-
 double f(double x, bool &ok) {
     double result = (x - 1)*(2 - x);
-
-    // Vérifier si l'expression est positive (pour la racine carrée)
-
     if (result < 0) {
         ok= false;
         return 0;
@@ -26,10 +21,10 @@ int main() {
     cin >> x;
     double result = f(x,ok);
     if (ok) {
-        cout << "La fonction f est définie au point x = " << x << endl;
+        cout << "La fonction f est dÃ©finie au point x = " << x << endl;
         cout << "La valeur de la fonction f=(x - 1)*(2 - x) est : " << result << endl;
     } else {
-        cout << "La fonction (x - 1)*(2 - x) n'est pas définie au point x = " << x << endl;
+        cout << "La fonction (x - 1)*(2 - x) n'est pas dÃ©finie au point x = " << x << endl;
     }
 
     return 0;
