@@ -16,8 +16,8 @@ int main() {
 
 
         if (mot.length() > longmax) {
-            pluslong = mot; // Mettre à jour le mot le plus long
-            longmax = mot.length();  // Mettre à jour la longueur maximale
+            pluslong = mot; 
+            longmax = mot.length();
         }
     }
 
