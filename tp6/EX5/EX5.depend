@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1733388323 source:c:\c++\tp6\ex5\main.cpp
+	<iostream>
+	"Personne.h"
+	"Enseignant.h"
+	"Etudiant.h"
+	"Contractuel.h"
+
+1733388674 c:\c++\tp6\ex5\include\personne.h
+	<string>
+
+1733388744 c:\c++\tp6\ex5\include\enseignant.h
+	"Personne.h"
+
+1733388744 c:\c++\tp6\ex5\include\etudiant.h
+	"Personne.h"
+
+1733388744 c:\c++\tp6\ex5\include\contractuel.h
+	"Enseignant.h"
+	"Etudiant.h"
+
+1733388447 source:c:\c++\tp6\ex5\src\contractuel.cpp
+	"Contractuel.h"
+
+1733388447 source:c:\c++\tp6\ex5\src\enseignant.cpp
+	"Enseignant.h"
+
+1733388447 source:c:\c++\tp6\ex5\src\etudiant.cpp
+	"Etudiant.h"
+
+1733388695 source:c:\c++\tp6\ex5\src\personne.cpp
+	"Personne.h"
+

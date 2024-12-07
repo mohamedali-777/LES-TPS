@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1733387703 source:c:\c++\tp6\ex3\src\vehicule.cpp
+	"Vehicule.h"
+
+1733387001 c:\c++\tp6\ex3\include\vehicule.h
+	<string>
+	<iostream>
+
+1733387001 source:c:\c++\tp6\ex3\src\voiture.cpp
+	"Voiture.h"
+
+1733387703 c:\c++\tp6\ex3\include\voiture.h
+	"Vehicule.h"
+
+1733387001 source:c:\c++\tp6\ex3\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Camion.h"
+
+1733387703 c:\c++\tp6\ex3\include\camion.h
+	"Vehicule.h"
+
+1733387001 source:c:\c++\tp6\ex3\src\camoin.cpp
+	"Camion.h"
+
