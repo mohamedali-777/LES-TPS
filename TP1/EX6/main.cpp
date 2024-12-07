@@ -2,25 +2,25 @@
 using namespace std;
 
 // Fonction swap par valeur
-void swapv(int a, int b) {
-    int temp = a;
-    a = b;
-    b = temp;
+void swapv(int a,int b) {
+    int temp=a;
+    a=b;
+    b=temp;
     cout << "Après swapv: a = " << a << ", b = " << b << endl;
 }
 
 // Fonction swap par référence
 void swapr(int &a, int &b) {
-    int temp = a;
-    a = b;
-    b = temp;
-    cout << "Après swapr: a = " << a << ", b = " << b << endl;
+    int temp=a;
+    a=b;
+    b=temp;
+    cout <<"Après swapr: a = " << a << ", b = " << b << endl;
 }
 
 // Fonction swap par pointeur
-void swapp(int *a, int *b) {
-    int temp = *a;
-    *a = *b;
+void swapp(int *a,int *b) {
+    int temp=*a;
+    *a=*b;
     *b = temp;
     cout << "Après swapp: a = " << *a << ", b = " << *b << endl;
 }
